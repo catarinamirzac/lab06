@@ -1,0 +1,5 @@
+/Users/catarinamirzac/Documents/Study/C++/lab06/build/CMakeFiles/TicTacToe.dir
+/Users/catarinamirzac/Documents/Study/C++/lab06/build/CMakeFiles/tests.dir
+/Users/catarinamirzac/Documents/Study/C++/lab06/build/CMakeFiles/test.dir
+/Users/catarinamirzac/Documents/Study/C++/lab06/build/CMakeFiles/edit_cache.dir
+/Users/catarinamirzac/Documents/Study/C++/lab06/build/CMakeFiles/rebuild_cache.dir
